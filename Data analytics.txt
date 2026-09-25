@@ -1,0 +1,43 @@
+Data analytics 
+download : power BI , SQL 
+Working procedure : 
+input > process > output 
+data source  > power BI desktop > power BI services > delivery 
+
+why Power BI ?
+ business insites . 
+ it will connect, and load millons of raw data   
+build relational models to blend data from multiple sources 
+define complex calculation using datat analysis Expressions(DAX)
+Bring data to life with interactive reports and dashboards
+Develops a versatile , in-demand skill set 
+    we can connect more than 200+ sources
+    page=2 > "&&ps&&" it is used ti join the pages and it will work automatically in all pages 
+    (ps as text)=> it is a parameter buy this we can call the functions it means the pages      
+
+
+AI tools :
+claude 
+chat gpt 
+microsoft copilot   
+goggle gemini ai 
+perplexity 
+
+process : (connect the power bi to the claude )
+vs code = in extentions install powerbi 
+go to files > drive > user > savan > vscode > extentions > powerbi  > server > powerbi (copy path) > open in note pad 
+claude > files > settings > developer > edit configuration > copy > open in note pad 
+now replace the this claude code with another code  
+  
+in pb i by clickling ctrl + / we can get the question so then the charts it will create 
+it is like prompt giving to it 
+
+that calude should be connected with the power bi 
+we can also costamised the colours by giving the prompt and save that file and go to power bi > click view > bowser then open that file it will apper . 
+
+can u create a colour Parten yellow
+title with 20 sub title with 10
+create a border with thick line in blue
+x and y axis with 15
+titles with bold 20 background black
+
